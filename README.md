@@ -2,7 +2,7 @@
 
 ├── app.py # Main Flask application ├── posture_detector.py # Posture detection logic ├── templates/ │ ├── index.html # Main UI │ └── report.html # Report view ├── static/ │ └── alert.mp3 # Optional sound alert ├── logs/ │ └── posture_log.csv # Logged posture data
 
---- ## ▶️ How to Run 1. Clone the repository: ```bash git clone https://github.com/bahador-akbar/posture-detector.git cd posture-detector-app 
+--- ## ▶️ How to Run 1. Clone the repository: ```bash git clone https://github.com/bahador-akbar/posture-predictor.git cd posture-detector-app 
 
 Install dependencies:
 
